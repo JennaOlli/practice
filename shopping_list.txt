@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Milk and cereal
-Sausage
-=======
 Milk, cereal
->>>>>>> afa3276f7b822a373ee8efee6c2cb2b0f436b2b1
+Sausage
