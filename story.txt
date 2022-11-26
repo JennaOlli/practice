@@ -10,4 +10,4 @@ Add something new to the shopping list, and create another commit. Use the comma
 Make sure you can see all the commits in the output of “git log”.
 If you see the following message when creating a commit error: cannot run : No such file or directory error: unable to start editor, make sure you configured the default text editor of Git properly (go back to exercise 2).
 
-To submit, give all the commands used in the exercise.
+To submit,,, give all the commands used in the exercise.
